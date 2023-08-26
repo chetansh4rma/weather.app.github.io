@@ -205,4 +205,10 @@ top: -12px;
     font-size: 18px;
     color: white;
 }
+   #cards img{
+  
+    width: 120px;
+    height: 120px;
+    
+}
 }
